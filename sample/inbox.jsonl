@@ -1,0 +1,4 @@
+{"subject":"Invoice 1042 overdue","body":"Please arrange payment of USD 120 by tomorrow.","sender":"billing@example.test"}
+{"subject":"Checkout is broken","body":"Customers cannot complete orders; the page shows an error.","sender":"ops@example.test"}
+{"subject":"Partnership demo","body":"We are interested in a product demo and pricing.","sender":"buyer@example.test"}
+{"subject":"Suspicious login","body":"A credential may be compromised. Please investigate immediately.","sender":"security@example.test"}
